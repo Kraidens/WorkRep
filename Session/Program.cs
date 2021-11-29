@@ -27,7 +27,10 @@ void JobTask1()
 //задание2
 void JobTask2()
 {
-    Console.WriteLine("     Не выполнено");   
+    int a1=5;
+    int a2 = 6;
+    int a3 = a1-a2;
+    Console.WriteLine("Результат: " + a3);
 }
 //задание3
 void JobTask3()
