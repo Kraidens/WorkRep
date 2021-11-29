@@ -32,5 +32,8 @@ void JobTask2()
 //задание3
 void JobTask3()
 {
-    Console.WriteLine("     Не выполнено");
+    int a1 = 5;
+    int a2 = 6;
+    int a3 = a1*a2;
+    Console.WriteLine("Результат: " + a3);
 }
